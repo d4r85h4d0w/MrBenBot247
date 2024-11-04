@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbenbot247" alt="mrbenbot247" /></a> </p>
 
-- 🔭 I’m currently working on [BenBot]d4r85h4d0w/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
