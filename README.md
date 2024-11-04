@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbenbot247" alt="mrbenbot247" /></a> </p>
 
-- 🔭 I’m currently working on [BenBot](https://github.com/d4r85h4d0w/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/d4r85h4d0w/](https://github.com/d4r85h4d0w/)
-
-- 📝 I regularly write articles on [https://github.com/d4r85h4d0w/](https://github.com/d4r85h4d0w/)
-
-- 📫 How to reach me **https://github.com/d4r85h4d0w/**
-
-- 📄 Know about my experiences [https://github.com/d4r85h4d0w/](https://github.com/d4r85h4d0w/)
-
-- ⚡ Fun fact **https://github.com/d4r85h4d0w/**
+- 🔭 I’m currently working on [BenBot]d4r85h4d0w/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
